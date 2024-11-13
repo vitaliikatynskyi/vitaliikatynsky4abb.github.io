@@ -29,6 +29,16 @@ body{
     margin: 10px;
 }
 
+body {
+  background-color:black;
+}
+#c {
+  opacity:.8;
+}
+canvas {
+  position:absolute;
+  top:0; left:0;
+}
 
 .box-container {
     margin-top: 20px;
